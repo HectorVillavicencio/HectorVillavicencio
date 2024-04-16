@@ -18,7 +18,7 @@
 - Un apasionado desarrollador en Front y Back
 - Estudiante de la tecnicatura y licenciatura en informatica en la universidad nacional de Quilmes
 - Mi portfolio [link](https://hectorvillavicencio.github.io/Portfolio_Villa/)
-- Estoy abierto a una oportunidad de trabajo, este es mi CV [my resume](https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing))
+- Estoy abierto a una oportunidad de trabajo, este es mi CV [my resume](https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing)
 
 <br>
 
@@ -53,7 +53,7 @@
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Herramientas y Frameworks**:
+- **Herramientas**:
   - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
