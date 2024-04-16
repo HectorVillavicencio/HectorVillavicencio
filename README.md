@@ -18,7 +18,6 @@
 
 - Un apasionado desarrollador en Front y Back
 - Estudiante de la tecnicatura y licenciatura en informatica en la universidad nacional de Quilmes
-- Currently learning Web Development by Self
 - Mi portfolio [link](https://hectorvillavicencio.github.io/Portfolio_Villa/)
 - Estoy abierto a una oportunidad de trabajo, este es mi CV [my resume]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing))
 
@@ -63,12 +62,7 @@
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contactemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -101,20 +95,4 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
