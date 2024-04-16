@@ -18,7 +18,7 @@
 - Un apasionado desarrollador en Front y Back
 - Estudiante de la tecnicatura y licenciatura en informatica en la universidad nacional de Quilmes
 - Mi portfolio [link](https://hectorvillavicencio.github.io/Portfolio_Villa/)
-- Estoy abierto a una oportunidad de trabajo, este es mi CV [CV](https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing)) https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing
+- Estoy abierto a una oportunidad de trabajo, este es mi CV [Link](https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing))
 
 <br>
 
