@@ -20,7 +20,7 @@
 - Mi portfolio [link](https://hectorvillavicencio.github.io/Portfolio_Villa/)
 - Estoy abierto a una oportunidad de trabajo, este es mi CV [my resume](https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing))
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -44,6 +44,10 @@
 
 - **Tecnologías Back-End**:
   - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+   ![Hibernate](https://img.shields.io/badge/Hibernate-%23007396.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+   ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+   ![JPA](https://img.shields.io/badge/JPA-%230C0C0C.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 - **Bases de Datos**:
   - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
