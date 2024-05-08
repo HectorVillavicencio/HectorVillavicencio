@@ -16,7 +16,7 @@
 <br>
 
 - Un apasionado desarrollador en Front y Back
-- Estudiante de la tecnicatura y licenciatura en informatica en la universidad nacional de Quilmes
+- Estudiante de la tecnicatura y licenciatura en informatica en la Universidad Nacional de Quilmes
 - Mi portfolio [link](https://hectorvillavicencio.github.io/Portfolio_Villa/)
 - Estoy abierto a una oportunidad de trabajo, este es mi CV [Link](https://drive.google.com/file/d/16rcPo335H1GYDFpwlIAP_3-XlclHlpx5/view?usp=sharing)
 
@@ -70,7 +70,7 @@
 <div align='left'>
 
 <li>
-<a href="https://linkedin.com/in/hector-villavicencio" target="_blank">
+<a href="https://www.linkedin.com/in/hector-villavicencio-0786a61b4/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Villavicencio-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
