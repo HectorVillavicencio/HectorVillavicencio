@@ -47,6 +47,8 @@
    ![Hibernate](https://img.shields.io/badge/Hibernate-%23007396.svg?style=for-the-badge&logo=hibernate&logoColor=white)
    ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
    ![JPA](https://img.shields.io/badge/JPA-%230C0C0C.svg?style=for-the-badge&logo=java&logoColor=white)
+   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 
 - **Bases de Datos**:
